@@ -58,10 +58,10 @@ AppGrow is an agricultural management application designed to assist farmers and
    - Select input and output units.  
    - Enter the value and view the converted result.
 
-## 👨‍💻 **Author**  
-- **Fabricio Aguiar de Padua**  
+## 🧑‍💻 **Developers**
+- **Lead Developer:** Fabricio Aguiar de Padua
 - **LinkedIn:** www.linkedin.com/fabricio-padua  
-- **Email:** fabricio_0505_@hotmail.com
+- **contact:** fabricio_0505_@hotmail.com
 
 ## 📝 License
 
