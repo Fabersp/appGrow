@@ -1,10 +1,6 @@
 
 # AppGrow
 
-**Year Created:** 2016  
-**Developer:** Fabricio Aguiar de Padua  
-**Company:** Pro Master Solution  
-
 ## 📱 Overview
 
 AppGrow is an agricultural management application designed to assist farmers and agronomists in optimizing their field activities. It provides essential tools for precise farming, soil correction, harvest programming, area conversion, and news updates.
@@ -68,5 +64,8 @@ This project is licensed under the **MIT License**.
 
 ---
 
-**Developed with passion by Fabricio Aguiar de Padua 🚜🌾**
+## 👨‍💻 **Author**  
+- **Fabricio Aguiar de Padua**  
+- **LinkedIn:** www.linkedin.com/fabricio-padua  
+- **Email:** fabricio_0505_@hotmail.com
 
