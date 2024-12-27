@@ -56,7 +56,12 @@ AppGrow is an agricultural management application designed to assist farmers and
 
 3. **Area Converter:**  
    - Select input and output units.  
-   - Enter the value and view the converted result.  
+   - Enter the value and view the converted result.
+
+## 👨‍💻 **Author**  
+- **Fabricio Aguiar de Padua**  
+- **LinkedIn:** www.linkedin.com/fabricio-padua  
+- **Email:** fabricio_0505_@hotmail.com
 
 ## 📝 License
 
@@ -64,8 +69,5 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 👨‍💻 **Author**  
-- **Fabricio Aguiar de Padua**  
-- **LinkedIn:** www.linkedin.com/fabricio-padua  
-- **Email:** fabricio_0505_@hotmail.com
+
 
